@@ -1,5 +1,5 @@
 # VueOnRavi2
-A second try to get a CI/CD pipeline kinda going.
+A second try to get a CI/CD pipeline kinda going. Let's go for no try 3...
 
 #  VueOnRavi
 
