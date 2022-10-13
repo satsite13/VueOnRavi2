@@ -1,0 +1,82 @@
+[33mcommit e307a0a1f001e5aed5a05c37c1d9a20918c110e5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ravi.student.dev <ravi.student.dev@gmail.com>
+Date:   Thu Oct 13 11:25:02 2022 -0400
+
+    GIT CLI & Github Desktop
+    
+    This is from the desktop app
+
+[33mcommit 4fc78bdfa6a66bd123dc5ea61fb99331dd1f323a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1ddc80f eab6df1
+Author: stravid87 <115239695+stravid87@users.noreply.github.com>
+Date:   Thu Oct 13 08:39:53 2022 -0600
+
+    Merge pull request #4 from satsite13/satsite-branch
+    
+    Trying to push from satsite13 to stravid87
+
+[33mcommit eab6df10f74bb3dcf71bf2808f642444798a3001[m
+Author: satsite13 <59979234+satsite13@users.noreply.github.com>
+Date:   Thu Oct 13 10:32:25 2022 -0400
+
+    Response to review as requested.
+    
+    I added the 13. Happy now?
+
+[33mcommit b27558922ee9a4555507e29b71932c84baf1524d[m
+Author: satsite13 <59979234+satsite13@users.noreply.github.com>
+Date:   Thu Oct 13 10:12:56 2022 -0400
+
+    Update to HelloWorld.vue
+    
+    What would you like me to add to this extended description?
+
+[33mcommit 1ddc80f6774a95ef4bff64e5faf3bbdfb15afc7c[m
+Merge: 873c53a aaecd49
+Author: stravid87 <115239695+stravid87@users.noreply.github.com>
+Date:   Sat Oct 8 07:23:19 2022 -0600
+
+    Merge pull request #3 from stravid87/stravid87-patch-1
+    
+    Update the Readme according to Packt's inst.
+
+[33mcommit aaecd4947ec6df6916d7cbdfab5d99af8792c053[m
+Author: stravid87 <115239695+stravid87@users.noreply.github.com>
+Date:   Sat Oct 8 07:12:42 2022 -0600
+
+    Update the Readme according to Packt's inst.
+    
+    There really isn't much more to say in a cn extended instruction set other than yeah, i'd like to see what you can do on the typewrite too?
+
+[33mcommit 873c53a079e177a9bbc2df2f353e0ae3e4e97fb2[m
+Author: stravid87 <ravi.student.dev@gmail.com>
+Date:   Fri Oct 7 10:20:10 2022 -0600
+
+    Simple changes to README.md
+
+[33mcommit 640be7bd0a0616da17dd8b8c336a751c64c8723a[m
+Merge: 1d77ee8 5f2b4bf
+Author: stravid87 <115239695+stravid87@users.noreply.github.com>
+Date:   Fri Oct 7 10:13:15 2022 -0600
+
+    Merge pull request #1 from stravid87/Local_First
+    
+    Well, it's a CI/CD pipeline started I suppose....
+
+[33mcommit 5f2b4bf851574ba966e68eb0e4492498012d21c2[m
+Author: stravid87 <ravi.student.dev@gmail.com>
+Date:   Fri Oct 7 10:11:02 2022 -0600
+
+    modified the .github action files
+
+[33mcommit f8e168258d63ac25239c2542c2f703b11e601588[m
+Author: satsite13 <s.site13@gmail.com>
+Date:   Fri Oct 7 09:24:35 2022 -0600
+
+    ^ Why in God's name is this suddenly vim? Local_Branch is a push from local to the public Git Repository
+
+[33mcommit 1d77ee86052544d7eb153bc88d74de9ca389db77[m
+Author: stravid87 <115239695+stravid87@users.noreply.github.com>
+Date:   Fri Oct 7 07:29:34 2022 -0600
+
+    Initial commit
